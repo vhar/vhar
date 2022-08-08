@@ -17,5 +17,5 @@
  ✔️ Docker, Git  
 
 🔥About:  
-Experience in integrating CMS/CRMs with APIs of third-party services (banks, marketplaces, etc.) from using ready-made libraries to make your own.  
+Experience in integrating CMS/CRM with API of third-party services (banks, marketplaces, etc.) from using ready-made libraries to make your own.  
 Extensive experience with legacy code, native PHP.
