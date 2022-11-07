@@ -1,20 +1,15 @@
 👋 Hi, I’m Vladimir (Vlad)
 
-⭕️ Contacts:  
+Contacts:  
 🔸Mail:vhar@mail.ru  
 🔸Telegram: @novgorodskylc  
 🔸https://www.linkedin.com/in/vlad-v-kharinenkov/   
 
-✅Skills:  
- ✔️ PHP v5-8  
- ✔️ OOP  
- ✔️ MVC  
- ✔️ REST  
- ✔️ MySQL, PostgreSQL  
- ✔️ JQuery, CSS, HTML  
- ✔️ Laravel  
- ✔️ Drupal, WordPress, Joomla   
- ✔️ Docker, Git  
+Stack:  
+&nbsp;&nbsp;&check;&nbsp;LAMP  
+&nbsp;&nbsp;&check;&nbsp;JS  
+&nbsp;&nbsp;&check;&nbsp;HTML  
+&nbsp;&nbsp;&check;&nbsp;CSS
 
 🔥About:  
 Experience in integrating CMS/CRM with API of third-party services (banks, marketplaces, etc.) from using ready-made libraries to make your own.  
