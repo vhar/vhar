@@ -13,7 +13,7 @@ Stack:
 
 Skills:  
 &nbsp;&nbsp;&check;&nbsp;PHP  
-&nbsp;&nbsp;&check;&nbsp;MySSQL / PostgreSQL  
+&nbsp;&nbsp;&check;&nbsp;MySQL / PostgreSQL  
 &nbsp;&nbsp;&check;&nbsp;JavaScript / JQuery  
 &nbsp;&nbsp;&check;&nbsp;HTML / CSS  
 &nbsp;&nbsp;&check;&nbsp;Git / GitHub / GitLab  
