@@ -2,7 +2,7 @@ Hi there, I’m Vladimir (Vlad)
 
 Contacts:  
 &nbsp;&nbsp;&check;&nbsp;Mail:vhar@mail.ru  
-&nbsp;&nbsp;&check;&nbsp;Telegram: @novgorodskylc  
+&nbsp;&nbsp;&check;&nbsp;Telegram: https://t.me/novgorodskylc  
 &nbsp;&nbsp;&check;&nbsp;https://www.linkedin.com/in/vlad-v-kharinenkov/   
 
 Stack:  
