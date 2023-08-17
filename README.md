@@ -14,7 +14,7 @@ Stack:
 Skills:  
 &nbsp;&nbsp;&check;&nbsp;PHP  
 &nbsp;&nbsp;&check;&nbsp;MySQL / PostgreSQL  
-&nbsp;&nbsp;&check;&nbsp;JavaScript / JQuery  
+&nbsp;&nbsp;&check;&nbsp;[JavaScript](https://vhar.github.io/jscalc/ "Калькулятор на JS") / JQuery  / [Vue.js](https://vhar.ru/fifteen/ "Игра в 15")
 &nbsp;&nbsp;&check;&nbsp;HTML / CSS  
 &nbsp;&nbsp;&check;&nbsp;Git / GitHub / GitLab  
 &nbsp;&nbsp;&check;&nbsp;Laravel / Drupal / WordPress / Joomla!
