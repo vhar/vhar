@@ -12,12 +12,15 @@ Stack:
 &nbsp;&nbsp;&check;&nbsp;CSS
 
 Skills:  
-&nbsp;&nbsp;&check;&nbsp;PHP  
-&nbsp;&nbsp;&check;&nbsp;MySQL / PostgreSQL  
-&nbsp;&nbsp;&check;&nbsp;[JavaScript](https://vhar.github.io/jscalc/ "Калькулятор на JS") / JQuery  / [Vue.js](https://vhar.ru/fifteen/ "Игра в 15")  
-&nbsp;&nbsp;&check;&nbsp;HTML / CSS  
+&nbsp;&nbsp;&check;&nbsp;PHP / Laravel  
+&nbsp;&nbsp;&check;&nbsp;MySQL / PostgreSQL / Redis  
+&nbsp;&nbsp;&check;&nbsp;RabbitMQ  
+&nbsp;&nbsp;&check;&nbsp;Docker / docker-compose  
+&nbsp;&nbsp;&check;&nbsp;Meilisearch / Elasticsearch  
+&nbsp;&nbsp;&check;&nbsp;SQL / ORM  
 &nbsp;&nbsp;&check;&nbsp;Git / GitHub / GitLab  
-&nbsp;&nbsp;&check;&nbsp;Laravel / Drupal / WordPress / Joomla!
+&nbsp;&nbsp;&check;&nbsp;VueJS  
+&nbsp;&nbsp;&check;&nbsp;Swagger / OpenAPI
 
 About:  
 &nbsp;&nbsp;&check;&nbsp;Experience in integrating CMS/CRM with API of third-party services (banks, marketplaces, etc.) from using ready-made libraries to make your own.  
