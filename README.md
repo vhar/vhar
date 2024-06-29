@@ -1,4 +1,7 @@
-Hi there, I’m Vladimir (Vlad)
+Hi there, I’m Vladimir (Vlad)  
+I've been backend development since 2009.  
+In my background  Experience in integrating CMS/CRM with API of third-party services (banks, marketplaces, delivery etc.) from using ready-made libraries to make your own.  
+Extensive experience with legacy code, native PHP.
 
 Contacts:  
 &nbsp;&nbsp;&check;&nbsp;Mail: vhar@mail.ru  
@@ -22,6 +25,3 @@ Skills:
 &nbsp;&nbsp;&check;&nbsp;VueJS  
 &nbsp;&nbsp;&check;&nbsp;Swagger / OpenAPI
 
-About:  
-&nbsp;&nbsp;&check;&nbsp;Experience in integrating CMS/CRM with API of third-party services (banks, marketplaces, etc.) from using ready-made libraries to make your own.  
-&nbsp;&nbsp;&check;&nbsp;Extensive experience with legacy code, native PHP.
